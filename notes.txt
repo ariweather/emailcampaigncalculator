@@ -1,0 +1,30 @@
+Row A 
+keywords to catch HR emails:
+-ommitted
+
+Keywords to catch campus emails:
+-ommited
+
+Keywords to catch disaster relief emails:
+-ommited
+
+
+What do I need to do?
+Overall
+    I need to declare variables
+    I need to find items and count (iteration)
+    I need to caluclate the percentages of all the found items(function?)
+
+Pending Tasks
+    -teach program how to count the items in the Excel sheet
+        -if the cell contains + keyword then count++
+    -teach the program how to only count the correct keywords
+    -teach the program how to find the total items in column B??
+
+
+Troubleshooting:
+Program is currently printing over and over again and calculating at zero percent for every email type.
+    -I need to get the code to print the final results ONCE. done
+    -I need to get the code to calculate percentage correctly. done 
+        -confirmed program is counting correctly
+        -update number types to stop rounding to zero
